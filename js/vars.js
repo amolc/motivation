@@ -1,5 +1,5 @@
 // YOU NEED TO CHANGE THESE VARIABLES //
 
-var sleepingTimeHours = 12, // The hour you sleep. In my case I sleep at 12:00pm
+var sleepingTimeHours = 10, // The hour you sleep. In my case I sleep at 12:00pm
 sleepingTimeMinutes = 00, // The minutes remaining for the time you sleep.
-dateOfBirth = 'August 31 1997';
+dateOfBirth = 'September 22 1994';
