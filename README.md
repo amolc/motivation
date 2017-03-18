@@ -1,6 +1,7 @@
 Fork of https://github.com/raichur/motivation.git
 Added minor change. Simple todo app.
 
+Screenshot of new tab in chrome/chromium. 
 ![Alt text](/screenshot.png?raw=true "Screenshot, todo list, timer, death, time, life")
 
 ## Motivation
